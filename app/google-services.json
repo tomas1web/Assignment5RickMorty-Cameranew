@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "265508052357",
+    "firebase_url": "https://rickmortyexplorer-d375c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rickmortyexplorer-d375c",
+    "storage_bucket": "rickmortyexplorer-d375c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265508052357:android:fe68f99c79fd6336cbf8ec",
+        "android_client_info": {
+          "package_name": "com.example.assignment3_rickmortyexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFVRwYdfxxnyhqznLi1lSdrAFvVnLWYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
